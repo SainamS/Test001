@@ -12,5 +12,6 @@
 5. เพิ่มไฟล์ myfunc2.py ที่มีฟังก์ชันลบเลข
 6. ทำการ merge branch FromTest2 → main
 7. แก้ไขไฟล์ README.md เพื่ออธิบายและใส่รูปประกอบ
+<img width="1256" height="872" alt="image" src="https://github.com/user-attachments/assets/6fde49d5-8e94-419c-854d-5505c5e4bd9e" />
 
 
